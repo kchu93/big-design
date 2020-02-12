@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{Bi82:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Dev/DevPage",function(){return t("gzsN")}])},gzsN:function(n,e,t){"use strict";t.r(e);var u=t("ERkP"),i=t.n(u),o=i.a.createElement,r=Object(u.memo)((function(){return o(i.a.Fragment,null)}));e.default=function(){return o(r,null)}}},[["Bi82",1,2,0]]]);
